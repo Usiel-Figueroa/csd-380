@@ -1,2 +1,5 @@
-# csd-380
-CSD380 DevOps
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Adam Bailey
+- Usiel Figueroa
